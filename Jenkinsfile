@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://your-repo-url.com/your-react-project.git'
+                git 'https://github.com/5454-jay/cclab3.git'
             }
         }
 
